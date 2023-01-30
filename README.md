@@ -11,7 +11,7 @@ This is a simple program that prompts the user to input a line of text and retur
 5.	The program will return the number of words in your line of text.
 
 ## Example
-Input: "Hello this is a test line"
+Input: "Hello this is a test line".
 Output: "6"
 
 ## Technical details
